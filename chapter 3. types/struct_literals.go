@@ -1,4 +1,5 @@
 package main
+
 import "fmt"
 
 type Point struct {
